@@ -1,3 +1,0 @@
-sources:
-  "foxy":
-    url: "https://raw.githubusercontent.com/irobot-ros/conan-ros2/main/sources/ros2-tf.repos"
